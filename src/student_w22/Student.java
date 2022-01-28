@@ -3,8 +3,6 @@ Author: Vicente Angeles
 Date:january 28 2022
 */
 
-
-
 package student_w22;
 
 
@@ -30,6 +28,5 @@ public class Student {
     public void setStudentName(String studentName) {
         this.studentName = studentName;
     }
-
 
 }
