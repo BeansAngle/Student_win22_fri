@@ -9,7 +9,7 @@ package student_w22;
 public class Student {
     
  private String studentId;
-    private String studentName;
+ private String studentName;
 
     public Student(String studentId,String studentName){
         this.studentId = studentId;
